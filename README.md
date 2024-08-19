@@ -5,7 +5,7 @@ This Python tool extracts and displays the names of input fields with an empty `
 ## Usage
 
 ```bash
-python input_extractor.py -u https://example.com
-python input_extractor.py -l urls.txt
+python3 input_extractor.py -u https://example.com
+python3 input_extractor.py -l urls.txt
 
 
